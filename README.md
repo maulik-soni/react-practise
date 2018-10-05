@@ -10,7 +10,7 @@ var ReactDOM = require("react-dom");
 var App = function() {
   return {
     render: function() {
-      return <h1>Holy cow it worked!</h1>
+      return <div>Holy cow it worked!</div>
     }
   };
 }

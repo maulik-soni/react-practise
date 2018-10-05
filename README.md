@@ -19,7 +19,7 @@ var App = function() {
 ReactDOM.render(<App />, document.body);
 ```
 
-4. now to run this file use this command `freact start`. This command will give you the port number of the local server where its listening, supponse if it returns `8000` then your server will run on `http://localhost:8000/`.
+4. now to run this file use this command `freact start`. This command will give you the port number of the local server where its listening, suppose if it returns `8000` then your server will run on `http://localhost:8000/`.
 
 
 

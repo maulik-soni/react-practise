@@ -1,5 +1,5 @@
 # INSTRUCTIONS:
-1. make sure you have installed `npm` on your machine.
+1. make sure you have installed `git` and `npm` on your machine.
 
 2. run command `npm i -g freact`
 

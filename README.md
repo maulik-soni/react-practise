@@ -24,7 +24,7 @@ ReactDOM.render(<App />, document.body);
 
 
 
-# HOW TO RAISE PR:
+# HOW TO RAISE PULL REQUEST (PR):
 1. [Create Local Branches With Git](https://services.github.com/on-demand/github-cli/create-branches-git).
 2. [Make Local Changes With Git](https://services.github.com/on-demand/github-cli/make-local-changes-git).
 3. [Add Local Commits With Git](https://services.github.com/on-demand/github-cli/add-commits-git).
